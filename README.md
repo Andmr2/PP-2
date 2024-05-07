@@ -13,5 +13,6 @@
 
 ![figure](https://github.com/Andmr2/PP-2/assets/168850249/45c36b34-1c3b-496d-994d-095f0eca3276)
 
-![figure](https://github.com/Andmr2/PP-2/assets/168850249/5c795540-81b3-477c-a09b-66c8438b6fcb)
+![figure](https://github.com/Andmr2/PP-2/assets/168850249/db000bd9-2b07-42c9-804a-b1f6a41105f1)
+
 

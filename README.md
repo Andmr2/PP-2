@@ -11,4 +11,4 @@
 Вывод: Применение open MP в разы сократило временные затрыты на перемножение матриц
 ![figure](https://github.com/Andmr2/PP-2/assets/168850249/ea390fee-ec7b-465c-a315-ea4813b5d9f1)
 
-
+![figure](https://github.com/Andmr2/PP-2/assets/168850249/45c36b34-1c3b-496d-994d-095f0eca3276)
